@@ -27,7 +27,7 @@ Thus the program has been successfully executed
 
 
 
-# Ex 1b:Datatypes-Boolean Expression Evaluation in Python
+# 1b:Datatypes-Boolean Expression Evaluation in Python
 
 ##  Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -60,7 +60,7 @@ print('d:',d)
 ## Result
 Thus, the program as been excuted successfully.
 
-#1c. Datatypes-Character Literal in Python
+# 1c. Datatypes-Character Literal in Python
 
 ##  Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
